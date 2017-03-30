@@ -35,4 +35,5 @@ npm run test
 	  }
 
 
-
+## LICENSE
+MIT
