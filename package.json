@@ -1,0 +1,21 @@
+{
+  "name": "crypto_tool",
+  "version": "0.0.1",
+  "description": "crypto tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "keywords": [
+    "crypto"
+  ],
+  "author": {
+    "name": "Kon"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": ">=3.1.5",
+    "MD5": ">=1.2.2",
+    "expect.js": ">=0.3.1"
+  }
+}
